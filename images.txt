@@ -3,4 +3,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 # 模板一
-openjdk:8
+openjdk:8u171
