@@ -3,4 +3,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 # 模板一
-nginx:1.27-alpine
+redis:7.4
