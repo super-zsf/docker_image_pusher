@@ -4,5 +4,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 # 模板一
 # apache/rocketmq:5.2.0
-styletang/rocketmq-console-ng:latest
-
+# styletang/rocketmq-console-ng:latest
+apacherocketmq/rocketmq-dashboard:latest
