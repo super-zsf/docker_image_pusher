@@ -3,5 +3,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 # 模板一
-openjdk:8u171
+apache/rocketmq:5.2.0
 
