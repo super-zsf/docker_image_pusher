@@ -3,5 +3,6 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 # 模板一
-apache/rocketmq:5.2.0
+# apache/rocketmq:5.2.0
+styletang/rocketmq-console-ng:latest
 
