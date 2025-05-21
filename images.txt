@@ -7,4 +7,5 @@
 # styletang/rocketmq-console-ng:latest
 # apacherocketmq/rocketmq-dashboard:latest
 # amazoncorretto:8u442
-canal/canal-server:v1.1.7
+# canal/canal-server:v1.1.7
+amd64/amazoncorretto:8
