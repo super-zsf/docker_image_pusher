@@ -12,4 +12,5 @@
 # zookeeper:3.8.4
 # apache/kafka:3.8.0
 # eclipse-temurin:8-jre
-mysql:8.0.40-oraclelinux9
+# mysql:8.0.40-oraclelinux9
+mysql:8.0.37-oraclelinux8
