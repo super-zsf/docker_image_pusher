@@ -11,4 +11,5 @@
 # amd64/amazoncorretto:8
 # zookeeper:3.8.4
 # apache/kafka:3.8.0
-eclipse-temurin:8-jre
+# eclipse-temurin:8-jre
+mysql:8.0.40-oraclelinux9
