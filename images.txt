@@ -16,4 +16,5 @@
 # mysql:8.0.37-oraclelinux8
 # zookeeper:3.7.2
 # apache/kafka:4.0.0
-tdengine/tdengine:3.3.6.13
+# tdengine/tdengine:3.3.6.13
+tdengine/tsdb:3.3.8.8
