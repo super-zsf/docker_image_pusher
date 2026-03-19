@@ -17,4 +17,5 @@
 # zookeeper:3.7.2
 # apache/kafka:4.0.0
 # tdengine/tdengine:3.3.6.13
-tdengine/tsdb:3.3.8.8
+# tdengine/tsdb:3.3.8.8
+bladex/sentinel-dashboard:1.8.9
