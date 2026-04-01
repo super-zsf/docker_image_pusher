@@ -20,4 +20,4 @@
 # tdengine/tsdb:3.3.8.8
 # bladex/sentinel-dashboard:1.8.9
 # timescale/timescaledb-ha:pg17
-timescale/timescaledb:pg17
+timescale/timescaledb:2.25.2-pg17
