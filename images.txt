@@ -19,4 +19,5 @@
 # tdengine/tdengine:3.3.6.13
 # tdengine/tsdb:3.3.8.8
 # bladex/sentinel-dashboard:1.8.9
-timescale/timescaledb-ha:pg17
+# timescale/timescaledb-ha:pg17
+timescale/timescaledb:pg17
